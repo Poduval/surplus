@@ -1,26 +1,23 @@
 Package: ds
 Title: Dibu's package for training and demonstrations
 Version: 0.0.1
-Date: 2021-08-14
+Date: 2021-09-26
 Authors@R: 
-    c(person(given = "Dibu",
+    c(person(given = "Dr. Dibu",
              family = "A S",
              role = "aut",
-             email = "mercuricmischief@gmail.com"),
+             email = "dibu.as@christuniversity.in"),
       person(given = "Rakesh",
              family = "Poduval",
              role = "cre",
              email = "poduval.rakesh@icloud.com"))
 Description: This is a collection of statistical functions.
 License: GPL-2
-Imports: shiny
+Imports: 
+    shiny
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
-NeedsCompilation: no
-Packaged: 2021-08-14 08:54:07 UTC; rakesh_poduval
-Author: Dibu A S [aut],
-  Rakesh Poduval [cre]
-Maintainer: Rakesh Poduval <poduval.rakesh@icloud.com>
-Built: R 4.0.2; ; 2021-08-14 08:54:13 UTC; unix
+Depends: 
+    R (>= 2.10)

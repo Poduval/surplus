@@ -1,0 +1,7 @@
+^02-specifications$
+^04-packaging\.R$
+^05-release$
+^renv$
+^renv\.lock$
+^.*\.Rproj$
+^\.Rproj\.user$
