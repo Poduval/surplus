@@ -1,5 +1,6 @@
 # The `ds` package
 
+
 ## About
 This package contains a personal collection of functions used for training and demonstration purpose only. 
 
@@ -8,7 +9,11 @@ This package contains a personal collection of functions used for training and d
 `install_github("Poduval/ds")`
 
 ## Reference
-Build R packages: http://r-pkgs.had.co.nz/
 
-## Final product
-`ds.tar.gz`
+<https://www.linkedin.com/in/dasachudham/>
+<https://www.linkedin.com/in/poduvalrakesh/>
+
+## Contents
+
+1. Surplus function of the insurer.
+2. Surplus function for individual risk model.
