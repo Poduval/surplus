@@ -1,5 +1,4 @@
-# The `ds` package
-
+# `ds` (Dr. Dibu A.S's course work)
 
 ## About
 This package contains a personal collection of functions used for training and demonstration purpose only. 
