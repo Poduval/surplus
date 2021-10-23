@@ -1,6 +1,6 @@
-Package: ds
-Title: Dibu's package for training and demonstrations
-Version: 0.0.1
+Package: surplus
+Title: Dr. Dibu's course work 
+Version: 0.0.3
 Date: 2021-09-26
 Authors@R: 
     c(person(given = "Dr. Dibu",
@@ -18,6 +18,6 @@ Imports:
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Depends: 
     R (>= 2.10)

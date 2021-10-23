@@ -53,10 +53,10 @@
     },
     "bslib": {
       "Package": "bslib",
-      "Version": "0.3.0",
+      "Version": "0.3.1",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "074ebc936dbcecd7115ed8083643b550"
+      "Hash": "56ae7e1987b340186a8a5a157c2ec358"
     },
     "cachem": {
       "Package": "cachem",
@@ -92,6 +92,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "0f22be39ec1d141fd03683c06f3a6e67"
+    },
+    "cpp11": {
+      "Package": "cpp11",
+      "Version": "0.4.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "40ba3fd26c8f61d8d14d334bc7761df9"
     },
     "crayon": {
       "Package": "crayon",
@@ -305,10 +312,10 @@
     },
     "mime": {
       "Package": "mime",
-      "Version": "0.11",
+      "Version": "0.12",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "8974a907200fc9948d636fe7d85ca9fb"
+      "Hash": "18e9c28c1d3ca1560ce30658b22ce104"
     },
     "openssl": {
       "Package": "openssl",
@@ -424,17 +431,17 @@
     },
     "rlang": {
       "Package": "rlang",
-      "Version": "0.4.11",
+      "Version": "0.4.12",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "515f341d3affe0de9e4a7f762efb0456"
+      "Hash": "0879f5388fe6e4d56d7ef0b7ccb031e5"
     },
     "roxygen2": {
       "Package": "roxygen2",
-      "Version": "7.1.1",
+      "Version": "7.1.2",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "fcd94e00cc409b25d07ca50f7bf339f5"
+      "Hash": "eb9849556c4250305106e82edae35b72"
     },
     "rprojroot": {
       "Package": "rprojroot",
@@ -473,10 +480,10 @@
     },
     "shiny": {
       "Package": "shiny",
-      "Version": "1.7.0",
+      "Version": "1.7.1",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "72bf551406bb75a182df55090dc5a25a"
+      "Hash": "00344c227c7bd0ab5d78052c5d736c44"
     },
     "sourcetools": {
       "Package": "sourcetools",

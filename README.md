@@ -1,4 +1,4 @@
-# `ds` (Dr. Dibu A.S's course work)
+# `surplus` (Dr. Dibu A.S's course work)
 
 ## About
 This package contains a personal collection of functions used for training and demonstration purpose only. 
@@ -10,7 +10,7 @@ This package contains a personal collection of functions used for training and d
 
 ## Instalation 
 
-`install_github("Poduval/ds")`
+`install_github("Poduval/surplus")`
 
 ## Contents
 

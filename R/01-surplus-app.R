@@ -12,7 +12,7 @@
 #'
 app_surplus <- function() {
 
-  app_dir = system.file("01-surplus", package = "ds")
+  app_dir = system.file("01-surplus", package = "surplus")
   if (app_dir == "") stop("ERROR, try re-installing `ds`.", call. = FALSE)
   runApp(app_dir, display.mode = "normal")
 

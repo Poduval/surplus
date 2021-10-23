@@ -1,3 +1,7 @@
+# Changes in version 0.0.3
+
+* Package name changed from `ds` to `surplus`
+
 # Changes in version 0.0.2
 
 * Added `surplus_irm` function with class `surplusirm`

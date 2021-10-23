@@ -11,11 +11,11 @@ check(quiet = TRUE)
 install()
 
 # Test package ====
-packageDescription("ds")
-news(package = "ds")
+packageDescription("surplus")
+news(package = "surplus")
 
-library(ds)
-getNamespaceExports("ds")
+library(surplus)
+getNamespaceExports("surplus")
 
 help("surplus")
 
@@ -31,4 +31,4 @@ surplus_irm(seq(0, 1, 0.5))
 # shiny app: require shiny package:
 app_surplus()
 
-ds:::app_surplus()
+lds:::app_surplus()
